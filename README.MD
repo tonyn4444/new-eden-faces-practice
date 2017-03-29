@@ -1,0 +1,1 @@
+Single-page application built using React + Flux. Utilizes MongoDB to save and retrieve data, Socket.IO to track online visitors in real time, and Node.js to build a REST API. The application retrieves data from a popular online game, and allows plays to vote for their favorite player's avatar.
